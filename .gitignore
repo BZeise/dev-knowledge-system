@@ -1,0 +1,28 @@
+# Claude Code
+.claude/
+
+# Personal activity logs
+03-personal/01-activity-log/*.md
+
+# Local settings
+settings.local.json
+
+# Standard development artifacts
+node_modules/
+dist/
+build/
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
