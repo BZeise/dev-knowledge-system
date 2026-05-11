@@ -9,12 +9,14 @@ Learning materials from professional courses and workshops.
 
 - [Enterprise UI Development](./01-courses/enterprise-ui-dev.md) — Steve Kinney (Frontend Masters)
 - [Complete Intro to React, v9](./01-courses/react-v9.md) — Brian Holt (Frontend Masters)
+- [Complete Intro to SQL & PostgreSQL](./01-courses/sql-and-postgresql.md) — Frontend Masters
 - [AI for Software Engineers](./01-courses/ai-software-engineers.md) — Frontend Masters
 
 ### [02-Concepts](./02-concepts/) — Core Programming Principles
 
 Foundational concepts applicable across languages and domains.
 
+- [General Principles](./02-concepts/general-principles.md) — Parameters vs Arguments, Chesterton's Fence, Stateful vs Stateless, Patterns and Anti-Patterns
 - [Object-Oriented Programming](./02-concepts/oop.md) — Abstraction, Polymorphism, Inheritance, Encapsulation
 - [SOLID Principles](./02-concepts/solid.md) — Design principles for maintainable code
 - [Design Patterns](./02-concepts/design-patterns.md) — Creational, Structural, and Behavioral patterns
@@ -51,6 +53,7 @@ Comprehensive guide by Spencer Schneidenbach covering modern .NET development.
 Interview questions, answers, and preparation materials organized by topic and company.
 
 - [Technical Q&A](./04-interview-prep/technical-qa.md) — OOP, C#, SQL fundamentals, coding exercises
+- [Behavioral & Soft Skills](./04-interview-prep/behavioral-soft-skills.md) — Time management, troubleshooting, communication, risk mitigation
 - **Company-Specific Preparation:**
   - [CVS](./04-interview-prep/company-specific-cvs.md) — Campaign/patient outreach focus, SQL emphasis, data design
   - [SDG](./04-interview-prep/company-specific-sdg.md) — Static classes and members focus
@@ -77,9 +80,11 @@ Curated links to official documentation, tutorials, and learning resources.
 
 2. **For Reference**: Use the table of contents above to jump to what you need. All files link to related topics.
 
-3. **For Interview Prep**: Review [04-Interview-Prep](./04-interview-prep/) before technical interviews.
+3. **For Interview Prep**: Review [04-Interview-Prep](./04-interview-prep/) before technical interviews. Include both Technical Q&A and Behavioral & Soft Skills.
 
 4. **For Tools**: Check [05-Tools](./05-tools/) when setting up new projects or workflows.
+
+5. **Track Progress**: See [TODO.md](./TODO.md) for incomplete sections and courses to expand as you review them.
 
 ## 🔗 Cross-File Navigation
 
@@ -95,4 +100,5 @@ This knowledge system is a personal learning resource. All content is either ori
 ---
 
 **Last Updated**: 2026-05-11  
-**Status**: Active - continuously updated as new concepts are learned and courses are completed
+**Status**: Active - continuously updated as new concepts are learned and courses are completed  
+**Progress**: See [TODO.md](./TODO.md) for incomplete sections and items to expand
