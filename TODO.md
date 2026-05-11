@@ -4,6 +4,12 @@ Incomplete sections and items to be filled in as courses are reviewed and conten
 
 ---
 
+## 🔍 High Priority
+
+- [ ] **Review FEM Profile History** — Go through Frontend Masters course history to identify all courses taken and add them to the [Courses Taken](./01-courses/) section with appropriate course notes files
+
+---
+
 ## 🎓 Courses - Content to Expand
 
 ### [01-Courses](./01-courses/)
