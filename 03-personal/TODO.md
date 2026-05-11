@@ -15,6 +15,15 @@ Organized under the new semantic block structure:
 
 ---
 
+## 🔧 New Deep Dives Created
+
+- ✅ **[Microservices Architecture](../01-learning/02-concepts/microservices.md)** — Comprehensive guide with verified sources
+  - Fundamentals, design patterns, implementation strategies
+  - Verified primary sources: Martin Fowler, Microsoft Azure Architecture Center, Chris Richardson
+  - Covers weak spots from Clinician Nexus interview prep
+
+---
+
 ## 🎓 Courses - Content to Expand
 
 ### [01-Learning/01-Courses](../01-learning/01-courses/)
